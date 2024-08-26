@@ -12,7 +12,7 @@
 
 The end goal is to create a business solution report satisfying all the demands of the client (as per the specified acceptance criteria) mentioned in the business request document. Here's a glimpse of the final report.
 
-![](https://github.com/SatthikGhosh/Revenue_Budget_Performance_Analysis/blob/main/Business_Report.PNG)
+![](https://github.com/SatthikGhosh/Revenue_Budget_Performance_Analysis/blob/main/Sales_analysis_preview.gif)
 <p align="center">
   <em>Business Solution Report</em>
 </p
@@ -76,7 +76,7 @@ As the name suggests, sales analysis involves analyzing the sales made by a comp
 Any Business Intelligence project begins with the understanding of the client demands. A client had sent a Business Request in form of an email stating their requirements and demands. Below is the Business Request received from the customer. I have changed the name due to non disclosure agreement issues and retracted the client's name.
 
 <p align="center">
-  <img src="https://github.com/SatthikGhosh/Revenue_Budget_Performance_Analysis/blob/main/BR%20sales.PNG" width="1050" title ="Business Request Document">
+  <img src="https://github.com/SatthikGhosh/Revenue_Budget_Performance_Analysis/blob/main/Business_Report.PNG" width="1050" title ="Business Request Document">
   <em>Business Request Document</em>
 </p>
 
