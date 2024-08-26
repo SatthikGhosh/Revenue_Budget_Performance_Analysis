@@ -12,7 +12,7 @@
 
 The end goal is to create a business solution report satisfying all the demands of the client (as per the specified acceptance criteria) mentioned in the business request document. Here's a glimpse of the final report.
 
-![](https://github.com/SatthikGhosh/Revenue_Budget_Performance_Analysis/blob/main/Sales_analysis_preview.gif)
+![](https://github.com/SatthikGhosh/Revenue_Budget_Performance_Analysis/blob/main/Business_Report.PNG)
 <p align="center">
   <em>Business Solution Report</em>
 </p
