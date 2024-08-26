@@ -398,7 +398,7 @@ The customer details dashboard contains visuals depicting the more specific deta
 
 
 <p align="center">
-  <img src="https://github.com/bhgururaj/Revenue-and-Budget-Performance-Evaluation/blob/main/custodetails.png" width="1050" title="Customer Details dashboard">
+  <img src="https://github.com/SatthikGhosh/Revenue_and_Budget_Performance_Evaluation/blob/main/custodetails.png" width="1050" title="Customer Details dashboard">
   <em>Customer Details dashboard</em>
 </p>
 
