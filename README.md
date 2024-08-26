@@ -1,4 +1,4 @@
-![](https://github.com/sgdaemon/Revenue_Budget_Performance_Analysis/blob/main/sales_banner.PNG)
+![](https://github.com/SatthikGhosh/Revenue_Budget_Performance_Analysis/blob/main/sales_banner.PNG)
 
 # Revenue_and_Budget_Performance_Analysis
 ### Business Analysis project related to Realtime Product Sales Analysis
